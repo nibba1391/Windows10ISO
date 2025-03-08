@@ -1,2 +1,1 @@
-# Windows10ISO
-Original Windows10 22H2 ENG/RU ISO
+# Original Windows 10 ISO For Both Languages And Little Bit More...
